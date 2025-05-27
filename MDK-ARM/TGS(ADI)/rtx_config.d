@@ -1,0 +1,10 @@
+tgs(adi)\rtx_config.o: RTE/CMSIS/RTX_Config.c
+tgs(adi)\rtx_config.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+tgs(adi)\rtx_config.o: D:\az\keil\core\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+tgs(adi)\rtx_config.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+tgs(adi)\rtx_config.o: D:\az\keil\pack\ARM\CMSIS\5.9.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+tgs(adi)\rtx_config.o: D:\az\keil\core\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+tgs(adi)\rtx_config.o: D:\az\keil\pack\ARM\CMSIS\6.1.0\CMSIS\RTOS2\Include\cmsis_os2.h
+tgs(adi)\rtx_config.o: D:\az\keil\pack\ARM\CMSIS\5.9.0\CMSIS\RTOS2\RTX\Include\rtx_def.h
+tgs(adi)\rtx_config.o: .\RTE\_TGS_ADI_\RTE_Components.h
+tgs(adi)\rtx_config.o: .\RTE\CMSIS\RTX_Config.h
